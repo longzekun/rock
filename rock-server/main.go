@@ -1,7 +1,7 @@
 package main
 
-import "fmt"
+import "github.com/longzekun/rock/rock-server/console"
 
 func main() {
-	fmt.Println("test")
+	console.Start()
 }
